@@ -8,4 +8,5 @@ public interface InterfaceClassA {
     public void interfaceClass();
     void b();
      String justA="1234555";
+
 }
