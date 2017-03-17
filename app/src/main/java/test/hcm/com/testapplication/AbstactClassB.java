@@ -10,7 +10,7 @@ import java.util.Set;
  */
 
 public class AbstactClassB extends AbstactClass{
-
+int a  = 3;
     @Override
     public void A() {
 
