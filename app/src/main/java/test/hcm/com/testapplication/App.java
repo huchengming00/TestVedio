@@ -25,5 +25,7 @@ public class App extends Application {
         int []b ={};
         String.valueOf(b);
         a.toCharArray();
+
+        System.out.println("-----");
     }
 }
